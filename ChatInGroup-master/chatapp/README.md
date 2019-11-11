@@ -1,1 +1,0 @@
-This is a simple chat application built with MERN - MongoDB, ExpressJS, React.js and Node.js
